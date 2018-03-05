@@ -29,7 +29,7 @@ http://scrumlab.it
 
 
 ## Prerequisites:
-* Gitlab - server - link to intalation prcedure
+* Gitlab - server - link to intallation procedure
 * Mongo container with replica sets (one machine)
 
 # Installation
